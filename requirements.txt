@@ -1,0 +1,13 @@
+Fiona
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+rasterio
+scikit-image
+scipy
+geopandas
+ipython
+scikit-learn==0.22.1
+psutil
